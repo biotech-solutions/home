@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.ac419662.chunk.css",
+    "main.css": "/home/static/css/main.2674ce8c.chunk.css",
     "main.js": "/home/static/js/main.4f28d93f.chunk.js",
     "main.js.map": "/home/static/js/main.4f28d93f.chunk.js.map",
     "runtime-main.js": "/home/static/js/runtime-main.68cf1828.js",
@@ -9,10 +9,10 @@
     "static/js/2.60d040be.chunk.js": "/home/static/js/2.60d040be.chunk.js",
     "static/js/2.60d040be.chunk.js.map": "/home/static/js/2.60d040be.chunk.js.map",
     "index.html": "/home/index.html",
-    "precache-manifest.48920eea5edf5d45aa31611320fc592e.js": "/home/precache-manifest.48920eea5edf5d45aa31611320fc592e.js",
+    "precache-manifest.ed552f26d0dc59701cb170ee7e89d938.js": "/home/precache-manifest.ed552f26d0dc59701cb170ee7e89d938.js",
     "service-worker.js": "/home/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/home/static/css/2.de424728.chunk.css.map",
-    "static/css/main.ac419662.chunk.css.map": "/home/static/css/main.ac419662.chunk.css.map",
+    "static/css/main.2674ce8c.chunk.css.map": "/home/static/css/main.2674ce8c.chunk.css.map",
     "static/js/2.60d040be.chunk.js.LICENSE.txt": "/home/static/js/2.60d040be.chunk.js.LICENSE.txt",
     "static/media/Logo blanco.png": "/home/static/media/Logo blanco.2e0eba3b.png",
     "static/media/call.svg": "/home/static/media/call.8b0f5297.svg",
@@ -28,7 +28,7 @@
     "static/js/runtime-main.68cf1828.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.60d040be.chunk.js",
-    "static/css/main.ac419662.chunk.css",
+    "static/css/main.2674ce8c.chunk.css",
     "static/js/main.4f28d93f.chunk.js"
   ]
 }
