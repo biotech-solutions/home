@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.002515ad.chunk.css",
+    "main.js": "/home/static/js/main.f0c75e28.chunk.js",
+    "main.js.map": "/home/static/js/main.f0c75e28.chunk.js.map",
+    "runtime-main.js": "/home/static/js/runtime-main.68cf1828.js",
+    "runtime-main.js.map": "/home/static/js/runtime-main.68cf1828.js.map",
+    "static/css/2.de424728.chunk.css": "/home/static/css/2.de424728.chunk.css",
+    "static/js/2.60d040be.chunk.js": "/home/static/js/2.60d040be.chunk.js",
+    "static/js/2.60d040be.chunk.js.map": "/home/static/js/2.60d040be.chunk.js.map",
+    "index.html": "/home/index.html",
+    "precache-manifest.3ae5e2fe3ea5c98ab99c59831c65fb09.js": "/home/precache-manifest.3ae5e2fe3ea5c98ab99c59831c65fb09.js",
+    "service-worker.js": "/home/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/home/static/css/2.de424728.chunk.css.map",
+    "static/css/main.002515ad.chunk.css.map": "/home/static/css/main.002515ad.chunk.css.map",
+    "static/js/2.60d040be.chunk.js.LICENSE.txt": "/home/static/js/2.60d040be.chunk.js.LICENSE.txt",
+    "static/media/Logo blanco.png": "/home/static/media/Logo blanco.2e0eba3b.png",
+    "static/media/call.svg": "/home/static/media/call.8b0f5297.svg",
+    "static/media/contact.jpg": "/home/static/media/contact.48a37360.jpg",
+    "static/media/email.svg": "/home/static/media/email.58653ee0.svg",
+    "static/media/gato1.jpg": "/home/static/media/gato1.240629bb.jpg",
+    "static/media/gato2.jpg": "/home/static/media/gato2.5ba49cbe.jpg",
+    "static/media/gato3.jpg": "/home/static/media/gato3.41517493.jpg",
+    "static/media/gato4.jpg": "/home/static/media/gato4.4c2956aa.jpg",
+    "static/media/linkedin.svg": "/home/static/media/linkedin.4c9f2c87.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68cf1828.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.60d040be.chunk.js",
+    "static/css/main.002515ad.chunk.css",
+    "static/js/main.f0c75e28.chunk.js"
+  ]
+}
