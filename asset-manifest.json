@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/home/static/css/main.030c6656.chunk.css",
-    "main.js": "/home/static/js/main.90136552.chunk.js",
-    "main.js.map": "/home/static/js/main.90136552.chunk.js.map",
+    "main.js": "/home/static/js/main.72b9d14f.chunk.js",
+    "main.js.map": "/home/static/js/main.72b9d14f.chunk.js.map",
     "runtime-main.js": "/home/static/js/runtime-main.68cf1828.js",
     "runtime-main.js.map": "/home/static/js/runtime-main.68cf1828.js.map",
     "static/css/2.de424728.chunk.css": "/home/static/css/2.de424728.chunk.css",
-    "static/js/2.fdcb1dce.chunk.js": "/home/static/js/2.fdcb1dce.chunk.js",
-    "static/js/2.fdcb1dce.chunk.js.map": "/home/static/js/2.fdcb1dce.chunk.js.map",
+    "static/js/2.5758116e.chunk.js": "/home/static/js/2.5758116e.chunk.js",
+    "static/js/2.5758116e.chunk.js.map": "/home/static/js/2.5758116e.chunk.js.map",
     "index.html": "/home/index.html",
-    "precache-manifest.258e11f119089a9cd8af5d3854ac7099.js": "/home/precache-manifest.258e11f119089a9cd8af5d3854ac7099.js",
+    "precache-manifest.cc1ad1651fa471be7df71285a6c1701b.js": "/home/precache-manifest.cc1ad1651fa471be7df71285a6c1701b.js",
     "service-worker.js": "/home/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/home/static/css/2.de424728.chunk.css.map",
     "static/css/main.030c6656.chunk.css.map": "/home/static/css/main.030c6656.chunk.css.map",
-    "static/js/2.fdcb1dce.chunk.js.LICENSE.txt": "/home/static/js/2.fdcb1dce.chunk.js.LICENSE.txt",
+    "static/js/2.5758116e.chunk.js.LICENSE.txt": "/home/static/js/2.5758116e.chunk.js.LICENSE.txt",
     "static/media/Logo blanco.png": "/home/static/media/Logo blanco.2e0eba3b.png",
     "static/media/call.svg": "/home/static/media/call.8b0f5297.svg",
     "static/media/contact.jpg": "/home/static/media/contact.48a37360.jpg",
@@ -21,14 +21,13 @@
     "static/media/gato2.jpg": "/home/static/media/gato2.5ba49cbe.jpg",
     "static/media/gato3.jpg": "/home/static/media/gato3.41517493.jpg",
     "static/media/gato4.jpg": "/home/static/media/gato4.4c2956aa.jpg",
-    "static/media/linkedin.svg": "/home/static/media/linkedin.4c9f2c87.svg",
     "static/media/slide1.jpg": "/home/static/media/slide1.28a16308.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.68cf1828.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.fdcb1dce.chunk.js",
+    "static/js/2.5758116e.chunk.js",
     "static/css/main.030c6656.chunk.css",
-    "static/js/main.90136552.chunk.js"
+    "static/js/main.72b9d14f.chunk.js"
   ]
 }
